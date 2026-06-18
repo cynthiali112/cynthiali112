@@ -26,4 +26,4 @@ Boston University — B.S. Business Administration (Finance) + B.S. Film & Telev
 Previously worked across strategy, analytics, and risk evaluation
 
 
-*--- Turning ambiguity into models, and models into decisions. --- *
+--- *Turning ambiguity into models, and models into decisions.* ---
