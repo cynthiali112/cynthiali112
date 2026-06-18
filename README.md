@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Cynthia 👋
 
-<!--
-**cynthiali112/cynthiali112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming M.S. in Financial Engineering @ UCLA
+Business strategy → analytics → quantitative research
 
-Here are some ideas to get you started:
+I build projects at the intersection of finance, data, and mathematical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Developing foundations in Python, C++, Probability, Linear Algebra, and Quantitative Methods
+- Building quant research & market analysis projects
+-Exploring systematic investing, statistical modeling, and financial data pipelines
+
+## Featured Areas
+📈 Quantitative Research
+📊 Financial Modeling
+🐍 Python & Data Science
+⚙️ C++ for Computational Finance
+
+## Background
+Boston University — B.S. Business Administration (Finance) + B.S. Film & Television
+Previously worked across strategy, analytics, and risk evaluation
+
+Turning ambiguity into models, and models into decisions.
