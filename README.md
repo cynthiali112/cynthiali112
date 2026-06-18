@@ -8,7 +8,7 @@ I build projects at the intersection of finance, data, and mathematical modeling
 ## Currently
 - Developing foundations in Python, C++, Probability, Linear Algebra, and Quantitative Methods
 - Building quant research & market analysis projects
--Exploring systematic investing, statistical modeling, and financial data pipelines
+- Exploring systematic investing, statistical modeling, and financial data pipelines
 
 ## Featured Areas
 📈 Quantitative Research
