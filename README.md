@@ -1,6 +1,7 @@
 ## Hi, I'm Cynthia 👋
 
 Incoming M.S. in Financial Engineering @ UCLA
+
 Business strategy → analytics → quantitative research
 
 I build projects at the intersection of finance, data, and mathematical modeling.
@@ -12,12 +13,16 @@ I build projects at the intersection of finance, data, and mathematical modeling
 
 ## Featured Areas
 📈 Quantitative Research
+
 📊 Financial Modeling
+
 🐍 Python & Data Science
+
 ⚙️ C++ for Computational Finance
 
 ## Background
 Boston University — B.S. Business Administration (Finance) + B.S. Film & Television
+
 Previously worked across strategy, analytics, and risk evaluation
 
 --- Turning ambiguity into models, and models into decisions. ---
